@@ -1,0 +1,10 @@
+C:\Users\First Cash Pawn\ObjectOP\Tuition Increase\Tuition Increase\bin\Debug\Tuition Increase.exe.config
+C:\Users\First Cash Pawn\ObjectOP\Tuition Increase\Tuition Increase\bin\Debug\Tuition Increase.exe
+C:\Users\First Cash Pawn\ObjectOP\Tuition Increase\Tuition Increase\bin\Debug\Tuition Increase.pdb
+C:\Users\First Cash Pawn\ObjectOP\Tuition Increase\Tuition Increase\obj\Debug\Tuition Increase.csproj.AssemblyReference.cache
+C:\Users\First Cash Pawn\ObjectOP\Tuition Increase\Tuition Increase\obj\Debug\Tuition_Increase.Form1.resources
+C:\Users\First Cash Pawn\ObjectOP\Tuition Increase\Tuition Increase\obj\Debug\Tuition_Increase.Properties.Resources.resources
+C:\Users\First Cash Pawn\ObjectOP\Tuition Increase\Tuition Increase\obj\Debug\Tuition Increase.csproj.GenerateResource.cache
+C:\Users\First Cash Pawn\ObjectOP\Tuition Increase\Tuition Increase\obj\Debug\Tuition Increase.csproj.CoreCompileInputs.cache
+C:\Users\First Cash Pawn\ObjectOP\Tuition Increase\Tuition Increase\obj\Debug\Tuition Increase.exe
+C:\Users\First Cash Pawn\ObjectOP\Tuition Increase\Tuition Increase\obj\Debug\Tuition Increase.pdb
