@@ -1,0 +1,10 @@
+C:\Users\First Cash Pawn\ObjectOP\Course Information\Course Information\bin\Debug\Course Information.exe.config
+C:\Users\First Cash Pawn\ObjectOP\Course Information\Course Information\bin\Debug\Course Information.exe
+C:\Users\First Cash Pawn\ObjectOP\Course Information\Course Information\bin\Debug\Course Information.pdb
+C:\Users\First Cash Pawn\ObjectOP\Course Information\Course Information\obj\Debug\Course Information.csproj.AssemblyReference.cache
+C:\Users\First Cash Pawn\ObjectOP\Course Information\Course Information\obj\Debug\Course_Information.Form1.resources
+C:\Users\First Cash Pawn\ObjectOP\Course Information\Course Information\obj\Debug\Course_Information.Properties.Resources.resources
+C:\Users\First Cash Pawn\ObjectOP\Course Information\Course Information\obj\Debug\Course Information.csproj.GenerateResource.cache
+C:\Users\First Cash Pawn\ObjectOP\Course Information\Course Information\obj\Debug\Course Information.csproj.CoreCompileInputs.cache
+C:\Users\First Cash Pawn\ObjectOP\Course Information\Course Information\obj\Debug\Course Information.exe
+C:\Users\First Cash Pawn\ObjectOP\Course Information\Course Information\obj\Debug\Course Information.pdb
